@@ -1,4 +1,6 @@
-'''Stack is a last in, first out (LIFO) structure'''
+'''Stack is a last in, first out (LIFO) structure
+A stack is a linear data structure that follows the principle of Last In First Out (LIFO). This means the last element inserted inside the stack is removed first.
+'''
 
 # Implementation of stack using List Data Structure
 
